@@ -5,6 +5,7 @@
       <mapping pattern="counter_'Till I Collapse" type="PLAIN_TEXT" />
       <mapping pattern="event_links(no-dups)-for_sitemap" type="PLAIN_TEXT" />
       <mapping pattern="events_and_dates" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="hiphop_app" type="Python" />
     </extensionMap>
   </component>
