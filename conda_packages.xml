@@ -16,7 +16,7 @@
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.1" />
         <entry key="anaconda-navigator" value="1.4.3" />
-        <entry key="anaconda-verify" value="1.3.2" />
+        <entry key="anaconda-verify" value="1.3.3" />
         <entry key="ansi2html" value="1.1.1" />
         <entry key="appdirs" value="1.4.0" />
         <entry key="apptools" value="4.4.0" />
@@ -186,7 +186,7 @@
         <entry key="googlecl" value="0.9.12" />
         <entry key="grako" value="3.10.0" />
         <entry key="graphviz" value="2.38.0" />
-        <entry key="greenlet" value="0.4.11" />
+        <entry key="greenlet" value="0.4.12" />
         <entry key="grin" value="1.2.1" />
         <entry key="h2o" value="3.10.0.9" />
         <entry key="h2o-py" value="3.10.0.9" />
@@ -535,7 +535,7 @@
         <entry key="nb_conda" value="2.0.0" />
         <entry key="nb_conda_kernels" value="2.0.0" />
         <entry key="nb_config_manager" value="0.1.3" />
-        <entry key="nbconvert" value="4.2.0" />
+        <entry key="nbconvert" value="5.1.1" />
         <entry key="nbformat" value="4.2.0" />
         <entry key="nbpresent" value="3.0.2" />
         <entry key="nbsetuptools" value="0.1.5" />
@@ -554,8 +554,8 @@
         <entry key="numba" value="0.30.1" />
         <entry key="numbapro" value="0.23.1" />
         <entry key="numbapro_cudalib" value="0.2" />
-        <entry key="numexpr" value="2.6.1" />
-        <entry key="numpy" value="1.11.3" />
+        <entry key="numexpr" value="2.6.2" />
+        <entry key="numpy" value="1.12.0" />
         <entry key="numpydoc" value="0.6.0" />
         <entry key="odo" value="0.5.0" />
         <entry key="olefile" value="0.44" />
@@ -570,6 +570,7 @@
         <entry key="pandas-datareader" value="0.2.1" />
         <entry key="pandasql" value="0.7.3" />
         <entry key="pandoc" value="1.19.2.1" />
+        <entry key="pandocfilters" value="1.4.1" />
         <entry key="param" value="1.4.2" />
         <entry key="paramiko" value="2.0.2" />
         <entry key="parsel" value="1.1.0" />
@@ -605,7 +606,7 @@
         <entry key="proj4" value="4.9.2" />
         <entry key="prompt_toolkit" value="1.0.9" />
         <entry key="pscp" value="0.65" />
-        <entry key="psutil" value="5.1.2" />
+        <entry key="psutil" value="5.1.3" />
         <entry key="psycopg2" value="2.6.2" />
         <entry key="py" value="1.4.32" />
         <entry key="pyamg" value="2.2.1" />
@@ -719,7 +720,7 @@
         <entry key="r-dt" value="0.2" />
         <entry key="r-dygraphs" value="1.1.1.3" />
         <entry key="r-e1071" value="1.6_7" />
-        <entry key="r-essentials" value="1.5.1" />
+        <entry key="r-essentials" value="1.5.2" />
         <entry key="r-estimability" value="1.2" />
         <entry key="r-evaluate" value="0.10" />
         <entry key="r-feather" value="0.3.1" />
@@ -869,7 +870,7 @@
         <entry key="r-rjson" value="0.2.15" />
         <entry key="r-rjsonio" value="1.3_0" />
         <entry key="r-rlist" value="0.4.6.1" />
-        <entry key="r-rmarkdown" value="1.2" />
+        <entry key="r-rmarkdown" value="1.3" />
         <entry key="r-rmr2" value="3.3.1" />
         <entry key="r-rngtools" value="1.2.4" />
         <entry key="r-robustbase" value="0.92_7" />
@@ -994,7 +995,7 @@
         <entry key="sqlparse" value="0.1.19" />
         <entry key="ssh" value="1.8.0" />
         <entry key="ssl_match_hostname" value="3.4.0.2" />
-        <entry key="statsmodels" value="0.6.1" />
+        <entry key="statsmodels" value="0.8.0" />
         <entry key="stripe" value="1.37.0" />
         <entry key="subprocess32" value="3.2.7" />
         <entry key="suds-jurko" value="0.6" />
@@ -1005,6 +1006,7 @@
         <entry key="tblib" value="1.3.0" />
         <entry key="tempita" value="0.5.3" />
         <entry key="teradata" value="15.10.0.20" />
+        <entry key="testpath" value="0.3" />
         <entry key="theano" value="0.8.2" />
         <entry key="thrift" value="0.9.3" />
         <entry key="thriftpy" value="0.3.8" />
@@ -1276,6 +1278,7 @@
               <option value="1.0.0" />
               <option value="1.3.0" />
               <option value="1.3.2" />
+              <option value="1.3.3" />
             </list>
           </value>
         </entry>
@@ -3321,6 +3324,7 @@
               <option value="0.4.9" />
               <option value="0.4.11" />
               <option value="0.4.5" />
+              <option value="0.4.12" />
             </list>
           </value>
         </entry>
@@ -6138,6 +6142,7 @@
               <option value="4.2.0" />
               <option value="4.0.0" />
               <option value="4.1.0" />
+              <option value="5.1.1" />
             </list>
           </value>
         </entry>
@@ -6408,6 +6413,7 @@
               <option value="2.6.1" />
               <option value="2.5" />
               <option value="2.4.4" />
+              <option value="2.6.2" />
             </list>
           </value>
         </entry>
@@ -6431,6 +6437,7 @@
               <option value="1.8.1" />
               <option value="1.11.2" />
               <option value="1.11.0" />
+              <option value="1.12.0" />
             </list>
           </value>
         </entry>
@@ -6589,6 +6596,13 @@
             <list>
               <option value="1.15.2" />
               <option value="1.19.2.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pandocfilters">
+          <value>
+            <list>
+              <option value="1.4.1" />
             </list>
           </value>
         </entry>
@@ -6972,6 +6986,7 @@
               <option value="2.2.1" />
               <option value="4.2.0" />
               <option value="5.1.2" />
+              <option value="5.1.3" />
             </list>
           </value>
         </entry>
@@ -8063,6 +8078,7 @@
               <option value="1.5.1" />
               <option value="1.4" />
               <option value="1.4.1" />
+              <option value="1.5.2" />
             </list>
           </value>
         </entry>
@@ -9264,6 +9280,7 @@
               <option value="1.2" />
               <option value="0.9.6" />
               <option value="0.9.5" />
+              <option value="1.3" />
             </list>
           </value>
         </entry>
@@ -10461,6 +10478,7 @@
               <option value="0.6.0" />
               <option value="0.4.3" />
               <option value="0.5.0" />
+              <option value="0.8.0" />
             </list>
           </value>
         </entry>
@@ -10547,6 +10565,13 @@
               <option value="15.10.0.11" />
               <option value="15.10.0.18" />
               <option value="15.10.0.17" />
+            </list>
+          </value>
+        </entry>
+        <entry key="testpath">
+          <value>
+            <list>
+              <option value="0.3" />
             </list>
           </value>
         </entry>
@@ -11222,6 +11247,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1486721575605" />
+    <option name="LAST_TIME_CHECKED" value="1487148019451" />
   </component>
 </application>
