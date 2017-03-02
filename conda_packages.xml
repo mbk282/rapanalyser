@@ -16,6 +16,7 @@
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.2" />
         <entry key="anaconda-navigator" value="1.4.3" />
+        <entry key="anaconda-project" value="0.4.1" />
         <entry key="anaconda-verify" value="1.3.3" />
         <entry key="ansi2html" value="1.1.1" />
         <entry key="appdirs" value="1.4.0" />
@@ -118,7 +119,7 @@
         <entry key="cycler" value="0.10.0" />
         <entry key="cython" value="0.25.2" />
         <entry key="cytoolz" value="0.8.2" />
-        <entry key="dask" value="0.13.0" />
+        <entry key="dask" value="0.14.0" />
         <entry key="datashader" value="0.4.0" />
         <entry key="datashape" value="0.5.4" />
         <entry key="dateutil" value="2.4.1" />
@@ -1270,6 +1271,13 @@
               <option value="1.1.1" />
               <option value="1.2.2" />
               <option value="1.4.3" />
+            </list>
+          </value>
+        </entry>
+        <entry key="anaconda-project">
+          <value>
+            <list>
+              <option value="0.4.1" />
             </list>
           </value>
         </entry>
@@ -2658,6 +2666,7 @@
               <option value="0.8.0" />
               <option value="0.11.0" />
               <option value="0.6.0" />
+              <option value="0.14.0" />
             </list>
           </value>
         </entry>
@@ -11312,6 +11321,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1488292950855" />
+    <option name="LAST_TIME_CHECKED" value="1488463001928" />
   </component>
 </application>
