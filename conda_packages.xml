@@ -25,7 +25,7 @@
         <entry key="argcomplete" value="1.0.0" />
         <entry key="argparse" value="1.3.0" />
         <entry key="astroid" value="1.4.9" />
-        <entry key="astropy" value="1.3" />
+        <entry key="astropy" value="1.3.1" />
         <entry key="atom" value="0.3.10" />
         <entry key="attrs" value="15.2.0" />
         <entry key="automat" value="0.5.0" />
@@ -1400,6 +1400,7 @@
               <option value="1.1.1" />
               <option value="1.0.4" />
               <option value="1.2" />
+              <option value="1.3.1" />
             </list>
           </value>
         </entry>
@@ -11386,6 +11387,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1489763543660" />
+    <option name="LAST_TIME_CHECKED" value="1489998334392" />
   </component>
 </application>
