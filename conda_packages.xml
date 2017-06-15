@@ -16,7 +16,7 @@
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.3" />
-        <entry key="anaconda-navigator" value="1.6.2" />
+        <entry key="anaconda-navigator" value="1.6.3" />
         <entry key="anaconda-project" value="0.6.0" />
         <entry key="anaconda-verify" value="1.3.7" />
         <entry key="ansi2html" value="1.1.1" />
@@ -47,7 +47,7 @@
         <entry key="biopython" value="1.68" />
         <entry key="bitarray" value="0.8.1" />
         <entry key="bitey" value="0.0" />
-        <entry key="bkcharts" value="0.1" />
+        <entry key="bkcharts" value="0.2" />
         <entry key="blaze" value="0.10.1" />
         <entry key="blaze-core" value="0.9.0" />
         <entry key="bleach" value="1.5.0" />
@@ -55,12 +55,12 @@
         <entry key="blockspring" value="0.1.13" />
         <entry key="blosc" value="1.7.0" />
         <entry key="blz" value="removed" />
-        <entry key="bokeh" value="0.12.5" />
+        <entry key="bokeh" value="0.12.6" />
         <entry key="boost" value="1.61.0" />
         <entry key="bootstrap_static" value="3.3.1" />
         <entry key="boto" value="2.47.0" />
         <entry key="boto3" value="1.4.4" />
-        <entry key="botocore" value="1.5.61" />
+        <entry key="botocore" value="1.5.67" />
         <entry key="bottlechest" value="0.7.1" />
         <entry key="bottleneck" value="1.2.1" />
         <entry key="bsdiff4" value="1.1.5" />
@@ -124,7 +124,7 @@
         <entry key="cycler" value="0.10.0" />
         <entry key="cython" value="0.25.2" />
         <entry key="cytoolz" value="0.8.2" />
-        <entry key="dask" value="0.14.3" />
+        <entry key="dask" value="0.15.0" />
         <entry key="datashader" value="0.4.0" />
         <entry key="datashape" value="0.5.4" />
         <entry key="dateutil" value="2.4.1" />
@@ -133,7 +133,7 @@
         <entry key="decorator" value="4.0.11" />
         <entry key="dill" value="0.2.6" />
         <entry key="distribute" value="0.6.45" />
-        <entry key="distributed" value="1.16.3" />
+        <entry key="distributed" value="1.17.0" />
         <entry key="django" value="1.10.5" />
         <entry key="dnspython" value="1.14.0" />
         <entry key="docopt" value="0.6.2" />
@@ -180,7 +180,7 @@
         <entry key="gawk" value="3.1.6" />
         <entry key="gdal" value="2.1.0" />
         <entry key="gdata" value="2.0.18" />
-        <entry key="gensim" value="1.0.1" />
+        <entry key="gensim" value="2.1.0" />
         <entry key="genson" value="0.2.1" />
         <entry key="geos" value="3.5.0" />
         <entry key="get_terminal_size" value="1.0.0" />
@@ -210,6 +210,7 @@
         <entry key="html5lib" value="0.999" />
         <entry key="httpretty" value="0.8.14" />
         <entry key="humanize" value="0.5.1" />
+        <entry key="hyperlink" value="17.1.1" />
         <entry key="icu" value="57.1" />
         <entry key="idna" value="2.5" />
         <entry key="imagesize" value="0.7.1" />
@@ -281,7 +282,7 @@
         <entry key="logilab-common" value="1.0.2" />
         <entry key="luigi" value="2.3.0" />
         <entry key="lxml" value="3.8.0" />
-        <entry key="lz4" value="0.9.4" />
+        <entry key="lz4" value="0.10.0" />
         <entry key="m2-autoconf" value="2.69" />
         <entry key="m2-autoconf2.13" value="2.13" />
         <entry key="m2-autogen" value="5.18.4" />
@@ -537,7 +538,7 @@
         <entry key="mklfft" value="2.1" />
         <entry key="mock" value="2.0.0" />
         <entry key="mongo-driver" value="0.7.1" />
-        <entry key="more-itertools" value="3.0.0" />
+        <entry key="more-itertools" value="3.2.0" />
         <entry key="mpi4py" value="2.0.0" />
         <entry key="mpld3" value="0.2" />
         <entry key="mpmath" value="0.19" />
@@ -1052,6 +1053,7 @@
         <entry key="tempita" value="0.5.3" />
         <entry key="teradata" value="15.10.0.20" />
         <entry key="testpath" value="0.3.1" />
+        <entry key="the-silver-searcher" value="2.0.0" />
         <entry key="theano" value="0.9.0" />
         <entry key="thrift" value="0.9.3" />
         <entry key="thriftpy" value="0.3.8" />
@@ -1067,7 +1069,7 @@
         <entry key="transaction" value="1.6.1" />
         <entry key="translationstring" value="1.3" />
         <entry key="trollius" value="2.1" />
-        <entry key="twisted" value="17.1.0" />
+        <entry key="twisted" value="17.5.0" />
         <entry key="typing" value="3.6.1" />
         <entry key="ujson" value="1.35" />
         <entry key="unicodecsv" value="0.14.1" />
@@ -1114,7 +1116,7 @@
         <entry key="xlwt" value="1.2.0" />
         <entry key="xray" value="0.7.0" />
         <entry key="yaml" value="0.1.6" />
-        <entry key="yarl" value="0.10.2" />
+        <entry key="yarl" value="0.10.3" />
         <entry key="yt" value="3.2.1" />
         <entry key="zeromq" value="4.1.3" />
         <entry key="zict" value="0.1.2" />
@@ -1333,6 +1335,7 @@
               <option value="1.6.2" />
               <option value="1.5.3" />
               <option value="1.5.2" />
+              <option value="1.6.3" />
             </list>
           </value>
         </entry>
@@ -1685,6 +1688,7 @@
           <value>
             <list>
               <option value="0.1" />
+              <option value="0.2" />
             </list>
           </value>
         </entry>
@@ -1800,6 +1804,7 @@
               <option value="0.7.1" />
               <option value="0.4.1" />
               <option value="0.12.5" />
+              <option value="0.12.6" />
             </list>
           </value>
         </entry>
@@ -1904,6 +1909,7 @@
               <option value="1.5.61" />
               <option value="1.5.35" />
               <option value="1.5.38" />
+              <option value="1.5.67" />
             </list>
           </value>
         </entry>
@@ -2813,6 +2819,7 @@
               <option value="0.14.0" />
               <option value="0.14.1" />
               <option value="0.14.3" />
+              <option value="0.15.0" />
             </list>
           </value>
         </entry>
@@ -2934,6 +2941,7 @@
               <option value="1.16.0" />
               <option value="1.16.1" />
               <option value="1.16.3" />
+              <option value="1.17.0" />
             </list>
           </value>
         </entry>
@@ -3386,6 +3394,7 @@
               <option value="0.12.1" />
               <option value="0.13.4.1" />
               <option value="1.0.1" />
+              <option value="2.1.0" />
             </list>
           </value>
         </entry>
@@ -3650,6 +3659,13 @@
           <value>
             <list>
               <option value="0.5.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="hyperlink">
+          <value>
+            <list>
+              <option value="17.1.1" />
             </list>
           </value>
         </entry>
@@ -4423,6 +4439,7 @@
               <option value="0.9.0" />
               <option value="0.9.1" />
               <option value="0.9.4" />
+              <option value="0.10.0" />
             </list>
           </value>
         </entry>
@@ -6322,6 +6339,7 @@
               <option value="2.2" />
               <option value="2.5.0" />
               <option value="3.0.0" />
+              <option value="3.2.0" />
             </list>
           </value>
         </entry>
@@ -11165,6 +11183,13 @@
             </list>
           </value>
         </entry>
+        <entry key="the-silver-searcher">
+          <value>
+            <list>
+              <option value="2.0.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="theano">
           <value>
             <list>
@@ -11340,6 +11365,7 @@
               <option value="12.3.0" />
               <option value="13.1.0" />
               <option value="17.1.0" />
+              <option value="17.5.0" />
             </list>
           </value>
         </entry>
@@ -11812,6 +11838,7 @@
           <value>
             <list>
               <option value="0.10.2" />
+              <option value="0.10.3" />
             </list>
           </value>
         </entry>
@@ -11900,6 +11927,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1497216080612" />
+    <option name="LAST_TIME_CHECKED" value="1497523357749" />
   </component>
 </application>
