@@ -9,6 +9,7 @@
         <entry key="accelerate" value="2.3.1" />
         <entry key="accelerate_cudalib" value="2.0" />
         <entry key="affine" value="2.0.0" />
+        <entry key="aiofiles" value="0.3.1" />
         <entry key="aiohttp" value="2.1.0" />
         <entry key="alabaster" value="0.7.10" />
         <entry key="alpaca_static" value="1.5.22" />
@@ -27,7 +28,7 @@
         <entry key="argcomplete" value="1.0.0" />
         <entry key="argparse" value="1.3.0" />
         <entry key="asn1crypto" value="0.22.0" />
-        <entry key="astroid" value="1.4.9" />
+        <entry key="astroid" value="1.5.3" />
         <entry key="astropy" value="1.3.3" />
         <entry key="async-timeout" value="1.2.1" />
         <entry key="atom" value="0.3.10" />
@@ -108,10 +109,11 @@
         <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.5.5" />
         <entry key="contextlib2" value="0.5.5" />
-        <entry key="continuum-docs" value="2.0.11" />
+        <entry key="continuum-docs" value="2.0.12" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.3.4" />
+        <entry key="cram" value="0.7" />
         <entry key="cryptacular" value="1.4.1" />
         <entry key="cryptography" value="1.8.1" />
         <entry key="cssselect" value="1.0.1" />
@@ -174,13 +176,14 @@
         <entry key="fuel" value="0.2.0" />
         <entry key="funcsigs" value="1.0.2" />
         <entry key="functools32" value="3.2.3.2" />
+        <entry key="functools_lru_cache" value="1.4" />
         <entry key="future" value="0.16.0" />
         <entry key="futures" value="3.1.1" />
         <entry key="futures-compat" value="1.0" />
         <entry key="gawk" value="3.1.6" />
         <entry key="gdal" value="2.1.0" />
         <entry key="gdata" value="2.0.18" />
-        <entry key="gensim" value="2.1.0" />
+        <entry key="gensim" value="2.2.0" />
         <entry key="genson" value="0.2.1" />
         <entry key="geos" value="3.5.0" />
         <entry key="get_terminal_size" value="1.0.0" />
@@ -229,7 +232,7 @@
         <entry key="ipython_genutils" value="0.2.0" />
         <entry key="ipywidgets" value="6.0.0" />
         <entry key="iso8601" value="0.1.11" />
-        <entry key="isort" value="4.2.14" />
+        <entry key="isort" value="4.2.15" />
         <entry key="itsdangerous" value="0.24" />
         <entry key="javabridge" value="1.0.14" />
         <entry key="jdcal" value="1.3" />
@@ -254,9 +257,9 @@
         <entry key="lancet-ioam" value="0.9.0" />
         <entry key="lasagne" value="0.1" />
         <entry key="launcher" value="1.0.0" />
-        <entry key="lazy-object-proxy" value="1.2.2" />
+        <entry key="lazy-object-proxy" value="1.3.1" />
         <entry key="ldap3" value="1.0.4" />
-        <entry key="libconda" value="4.0.0" />
+        <entry key="libconda" value="4.0.1" />
         <entry key="libdynd" value="0.7.2" />
         <entry key="libevent" value="2.0.21" />
         <entry key="libgdal" value="2.1.0" />
@@ -267,8 +270,10 @@
         <entry key="libpng" value="1.6.27" />
         <entry key="libpostgres" value="9.1.4" />
         <entry key="libpq" value="9.5.4" />
+        <entry key="libprotobuf" value="3.2.0" />
         <entry key="libpython" value="2.0" />
         <entry key="libsodium" value="1.0.3" />
+        <entry key="libssh2" value="1.8.0" />
         <entry key="libthrift" value="0.9.3" />
         <entry key="libtiff" value="4.0.6" />
         <entry key="libxgboost" value="0.60" />
@@ -597,7 +602,7 @@
         <entry key="pandasql" value="0.7.3" />
         <entry key="pandoc" value="1.19.2.1" />
         <entry key="pandocfilters" value="1.4.1" />
-        <entry key="param" value="1.5.0" />
+        <entry key="param" value="1.5.1" />
         <entry key="paramiko" value="2.1.2" />
         <entry key="parsel" value="1.2.0" />
         <entry key="partd" value="0.3.8" />
@@ -634,6 +639,7 @@
         <entry key="progressbar2" value="3.18.1" />
         <entry key="proj4" value="4.9.2" />
         <entry key="prompt_toolkit" value="1.0.14" />
+        <entry key="protobuf" value="3.2.0" />
         <entry key="pscp" value="0.65" />
         <entry key="psutil" value="5.2.2" />
         <entry key="psycopg2" value="2.7.1" />
@@ -681,6 +687,7 @@
         <entry key="pysocks" value="1.6.6" />
         <entry key="pytables" value="3.3.0" />
         <entry key="pytest" value="3.1.2" />
+        <entry key="pytest-asyncio" value="0.6.0" />
         <entry key="pytest-cache" value="1.0" />
         <entry key="pytest-cov" value="2.3.1" />
         <entry key="pytest-mock" value="1.6.0" />
@@ -693,6 +700,7 @@
         <entry key="python-graphviz" value="0.5.2" />
         <entry key="python-memcached" value="1.57" />
         <entry key="python-ntlm" value="1.1.0" />
+        <entry key="python-rapidjson" value="0.0.11" />
         <entry key="python-sybase" value="0.40" />
         <entry key="python-utils" value="2.1.0" />
         <entry key="pytz" value="2017.2" />
@@ -984,6 +992,7 @@
         <entry key="r-xts" value="0.9_7" />
         <entry key="r-yaml" value="2.1.14" />
         <entry key="r-zoo" value="1.7_13" />
+        <entry key="rapidjson" value="1.1.0" />
         <entry key="rasterio" value="0.25.0" />
         <entry key="reportlab" value="3.4.0" />
         <entry key="repoze.lru" value="0.6" />
@@ -1035,7 +1044,7 @@
         <entry key="sphinxcontrib-websupport" value="1.0.1" />
         <entry key="spyder" value="3.1.4" />
         <entry key="spyder-app" value="2.3.8" />
-        <entry key="sqlalchemy" value="1.1.10" />
+        <entry key="sqlalchemy" value="1.1.11" />
         <entry key="sqlite" value="3.13.0" />
         <entry key="sqlparse" value="0.1.19" />
         <entry key="ssh" value="1.8.0" />
@@ -1052,6 +1061,7 @@
         <entry key="tabulate" value="0.7.5" />
         <entry key="tblib" value="1.3.2" />
         <entry key="tempita" value="0.5.3" />
+        <entry key="tensorflow" value="1.1.0" />
         <entry key="teradata" value="15.10.0.20" />
         <entry key="testpath" value="0.3.1" />
         <entry key="the-silver-searcher" value="2.0.0" />
@@ -1077,6 +1087,7 @@
         <entry key="unidecode" value="0.4.17" />
         <entry key="unittest2" value="0.8.0" />
         <entry key="unxutils" value="14.04.03" />
+        <entry key="urllib3" value="1.21.1" />
         <entry key="uuid" value="1.30" />
         <entry key="vc" value="14" />
         <entry key="vcredist" value="1.0" />
@@ -1088,7 +1099,7 @@
         <entry key="vs2008_runtime" value="9.00.30729.5054" />
         <entry key="vs2010_runtime" value="10.00.40219.1" />
         <entry key="vs2013_runtime" value="12.0.21005" />
-        <entry key="vs2015_runtime" value="14.0.25123" />
+        <entry key="vs2015_runtime" value="14.0.25420" />
         <entry key="vtk" value="6.3.0" />
         <entry key="w3lib" value="1.17.0" />
         <entry key="waitress" value="1.0.2" />
@@ -1212,6 +1223,13 @@
               <option value="1.3.0" />
               <option value="1.1.0" />
               <option value="1.2.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="aiofiles">
+          <value>
+            <list>
+              <option value="0.3.1" />
             </list>
           </value>
         </entry>
@@ -1448,6 +1466,7 @@
               <option value="1.2.0" />
               <option value="1.3.2" />
               <option value="1.4.7" />
+              <option value="1.5.3" />
             </list>
           </value>
         </entry>
@@ -2609,6 +2628,7 @@
               <option value="2.0.8" />
               <option value="2.0.11" />
               <option value="2.0.9" />
+              <option value="2.0.12" />
             </list>
           </value>
         </entry>
@@ -2637,6 +2657,13 @@
               <option value="4.2" />
               <option value="4.0" />
               <option value="4.3.4" />
+            </list>
+          </value>
+        </entry>
+        <entry key="cram">
+          <value>
+            <list>
+              <option value="0.7" />
             </list>
           </value>
         </entry>
@@ -3318,6 +3345,13 @@
             </list>
           </value>
         </entry>
+        <entry key="functools_lru_cache">
+          <value>
+            <list>
+              <option value="1.4" />
+            </list>
+          </value>
+        </entry>
         <entry key="future">
           <value>
             <list>
@@ -3401,6 +3435,7 @@
               <option value="0.13.4.1" />
               <option value="1.0.1" />
               <option value="2.1.0" />
+              <option value="2.2.0" />
             </list>
           </value>
         </entry>
@@ -3927,6 +3962,7 @@
               <option value="4.2.5" />
               <option value="4.2.9" />
               <option value="4.2.14" />
+              <option value="4.2.15" />
             </list>
           </value>
         </entry>
@@ -4160,6 +4196,7 @@
             <list>
               <option value="1.2.1" />
               <option value="1.2.2" />
+              <option value="1.3.1" />
             </list>
           </value>
         </entry>
@@ -4175,6 +4212,7 @@
           <value>
             <list>
               <option value="4.0.0" />
+              <option value="4.0.1" />
             </list>
           </value>
         </entry>
@@ -4266,6 +4304,13 @@
             </list>
           </value>
         </entry>
+        <entry key="libprotobuf">
+          <value>
+            <list>
+              <option value="3.2.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="libpython">
           <value>
             <list>
@@ -4278,6 +4323,13 @@
           <value>
             <list>
               <option value="1.0.3" />
+            </list>
+          </value>
+        </entry>
+        <entry key="libssh2">
+          <value>
+            <list>
+              <option value="1.8.0" />
             </list>
           </value>
         </entry>
@@ -7025,6 +7077,7 @@
               <option value="1.4.2" />
               <option value="1.4.1" />
               <option value="1.5.0" />
+              <option value="1.5.1" />
             </list>
           </value>
         </entry>
@@ -7395,6 +7448,13 @@
               <option value="1.0.3" />
               <option value="1.0.13" />
               <option value="1.0.14" />
+            </list>
+          </value>
+        </entry>
+        <entry key="protobuf">
+          <value>
+            <list>
+              <option value="3.2.0" />
             </list>
           </value>
         </entry>
@@ -7905,6 +7965,13 @@
             </list>
           </value>
         </entry>
+        <entry key="pytest-asyncio">
+          <value>
+            <list>
+              <option value="0.6.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="pytest-cache">
           <value>
             <list>
@@ -8023,6 +8090,13 @@
           <value>
             <list>
               <option value="1.1.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="python-rapidjson">
+          <value>
+            <list>
+              <option value="0.0.11" />
             </list>
           </value>
         </entry>
@@ -10400,6 +10474,13 @@
             </list>
           </value>
         </entry>
+        <entry key="rapidjson">
+          <value>
+            <list>
+              <option value="1.1.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="rasterio">
           <value>
             <list>
@@ -11042,6 +11123,7 @@
               <option value="1.1.10" />
               <option value="1.1.8" />
               <option value="1.1.9" />
+              <option value="1.1.11" />
             </list>
           </value>
         </entry>
@@ -11181,6 +11263,13 @@
           <value>
             <list>
               <option value="0.5.3" />
+            </list>
+          </value>
+        </entry>
+        <entry key="tensorflow">
+          <value>
+            <list>
+              <option value="1.1.0" />
             </list>
           </value>
         </entry>
@@ -11436,6 +11525,13 @@
             </list>
           </value>
         </entry>
+        <entry key="urllib3">
+          <value>
+            <list>
+              <option value="1.21.1" />
+            </list>
+          </value>
+        </entry>
         <entry key="uuid">
           <value>
             <list>
@@ -11526,6 +11622,7 @@
             <list>
               <option value="14.00.23026.0" />
               <option value="14.0.25123" />
+              <option value="14.0.25420" />
             </list>
           </value>
         </entry>
@@ -11947,6 +12044,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1497951938080" />
+    <option name="LAST_TIME_CHECKED" value="1498468790195" />
   </component>
 </application>
