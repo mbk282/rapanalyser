@@ -98,7 +98,7 @@
         <entry key="colorama" value="0.3.9" />
         <entry key="colorcet" value="0.9.1" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.3.25" />
+        <entry key="conda" value="4.3.27" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="3.0.19" />
         <entry key="conda-build-all" value="1.0.2" />
@@ -487,6 +487,7 @@
         <entry key="m2w64-grep" value="2.24" />
         <entry key="m2w64-gsl" value="2.1" />
         <entry key="m2w64-headers-git" value="5.0.0.4636.c0ad18a" />
+        <entry key="m2w64-icu" value="58.2" />
         <entry key="m2w64-isl" value="0.16.1" />
         <entry key="m2w64-jansson" value="2.7" />
         <entry key="m2w64-libffi" value="3.2.1" />
@@ -2494,6 +2495,7 @@
               <option value="4.3.24" />
               <option value="4.3.25" />
               <option value="4.3.23" />
+              <option value="4.3.27" />
             </list>
           </value>
         </entry>
@@ -6028,6 +6030,13 @@
           <value>
             <list>
               <option value="5.0.0.4636.c0ad18a" />
+            </list>
+          </value>
+        </entry>
+        <entry key="m2w64-icu">
+          <value>
+            <list>
+              <option value="58.2" />
             </list>
           </value>
         </entry>
@@ -12836,6 +12845,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1506071988730" />
+    <option name="LAST_TIME_CHECKED" value="1508489482918" />
   </component>
 </application>
